@@ -3,7 +3,9 @@ package com.minis.beans;
 import java.util.*;
 
 /**
- * @Description:
+ * @Description:bean工厂，这里面就是存放bean的地方，以及获取bean的地方，自然需要
+ * 维护好单例池和 beanDefinitions 集合以及bean id的集合
+ * 并且要实现对于bean的注册，也就是把bean放入 beanDefinitions
  * @Author: Levi
  * @Date: 2024/5/22 12:03
  */

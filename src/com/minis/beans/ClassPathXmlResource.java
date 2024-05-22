@@ -8,7 +8,7 @@ import java.net.URL;
 import java.util.Iterator;
 
 /**
- * @Description:
+ * @Description:对xml资源的处理，解析出来封装在元素集合里面
  * @Author: Levi
  * @Date: 2024/5/22 12:00
  */

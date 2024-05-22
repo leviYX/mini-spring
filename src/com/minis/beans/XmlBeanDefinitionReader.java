@@ -3,7 +3,8 @@ package com.minis.beans;
 import org.dom4j.Element;
 
 /**
- * @Description:
+ * @Description:对于解析出来xmL资源的处理，把xml资源封装为BeanDefinition
+ * 并且放在beanFactory中，此时就拿到所有的 BeanDefinitio了
  * @Author: Levi
  * @Date: 2024/5/22 12:02
  */
